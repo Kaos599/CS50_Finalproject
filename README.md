@@ -76,7 +76,7 @@ These are the methods used to approximate the values of derivatives and integral
 
 •	Just copy paste the programs from the repository to your IDE and run them! - 
 
-• You can find our programs in the GitHub repository at https://github.com/Kaos599/Applied-Numerical-Methods.
+• You can find our programs in the GitHub repository at https://github.com/Kaos599/CS50_Finalproject.
 
 • You can download or clone the repository to your local machine and then open the programs in your preferred IDE (Integrated Development Environment), such as PyCharm, Spyder, Visual Studio 
 Code, etc. You can also run the programs in a Jupyter Notebook or Google Colab. 
